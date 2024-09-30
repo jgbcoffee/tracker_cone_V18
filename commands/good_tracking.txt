@@ -1,0 +1,40 @@
+"XY Movement Itteration Index: 1
+Current Coordinates: [-85.7, 183.7, 265.1, 1.93, -4.04, 89.2]
+Current Angles: [-90.61, 125.15, -130.6, 91.05, 1.93, -90.52]
+Reference Centroid at: [ 39.96643413 285.05247194]
+X-Direction Command Movement: -74
+Y-Direction Command Movement: -11
+Z-Direction Command Movement: 0 
+"
+"XY Movement Itteration Index: 2
+Current Coordinates: [-154.4, 203.1, 260.7, 1.47, -1.81, 87.53]
+Current Angles: [-73.21, 121.9, -97.64, 63.8, 0.79, -109.77]
+Reference Centroid at: [290.83333333 225.66666667]
+X-Direction Command Movement: -7
+Y-Direction Command Movement: 3
+Z-Direction Command Movement: 0 
+"
+"Current Z Movement Iteration: 1
+Reference Centroid at: [290.83333333 225.66666667]
+X-Direction Command Movement: 0
+Y-Direction Command Movement: 0
+Z-Direction Command Movement: 37.6487719664181
+Current Coordinates: [-155.8, 207.9, 256.9, 0.86, -0.04, 86.04]
+Current Angles: [-73.21, 121.9, -96.06, 63.8, 0.79, -110.74]
+"
+"Current Z Movement Iteration: 2
+Reference Centroid at: [290.83333333 225.66666667]
+X-Direction Command Movement: 0
+Y-Direction Command Movement: 0
+Z-Direction Command Movement: 37.6487719664181
+Current Coordinates: [-151.9, 195.2, 290.3, 0.29, 1.63, 84.89]
+Current Angles: [-73.21, 109.16, -100.28, 82.52, 0.87, -111.88]
+"
+"Current Z Movement Iteration: 3
+Reference Centroid at: [290.83333333 225.66666667]
+X-Direction Command Movement: 0
+Y-Direction Command Movement: 0
+Z-Direction Command Movement: 37.6487719664181
+Current Coordinates: [-152.5, 127.1, 328.7, 0.16, 1.5, 84.19]
+Current Angles: [-66.44, 88.76, -115.66, 118.12, 0.87, -119.35]
+"
